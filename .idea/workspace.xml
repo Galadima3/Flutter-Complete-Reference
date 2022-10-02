@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45375e70-f8e4-4d5a-ad71-3b6af8e20b89" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Dart/callable_classes.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dart/cloning_objects.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dart/cloning_objects1.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dart/getters_setters.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dart/abstract_classes.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dart/interfaces.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dart/mixin.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dart/super1.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,14 +40,14 @@
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
-  <component name="RunManager" selected="Dart Command Line App.cloning_objects.dart">
-    <configuration name="callable_classes.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/Dart/callable_classes.dart" />
+  <component name="RunManager" selected="Dart Command Line App.mixin.dart">
+    <configuration name="abstract_classes.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/Dart/abstract_classes.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$/Dart" />
       <method v="2" />
     </configuration>
-    <configuration name="classes.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/Dart/classes.dart" />
+    <configuration name="callable_classes.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/Dart/callable_classes.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$/Dart" />
       <method v="2" />
     </configuration>
@@ -56,23 +56,23 @@
       <option name="workingDirectory" value="$PROJECT_DIR$/Dart" />
       <method v="2" />
     </configuration>
-    <configuration name="fxns.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/fxns.dart" />
-      <option name="workingDirectory" value="$PROJECT_DIR$" />
+    <configuration name="interfaces.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/Dart/interfaces.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/Dart" />
       <method v="2" />
     </configuration>
-    <configuration name="getters_setters.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/Dart/getters_setters.dart" />
+    <configuration name="mixin.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/Dart/mixin.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$/Dart" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Dart Command Line App.mixin.dart" />
+        <item itemvalue="Dart Command Line App.interfaces.dart" />
+        <item itemvalue="Dart Command Line App.abstract_classes.dart" />
         <item itemvalue="Dart Command Line App.cloning_objects.dart" />
         <item itemvalue="Dart Command Line App.callable_classes.dart" />
-        <item itemvalue="Dart Command Line App.getters_setters.dart" />
-        <item itemvalue="Dart Command Line App.classes.dart" />
-        <item itemvalue="Dart Command Line App.fxns.dart" />
       </list>
     </recent_temporary>
   </component>
