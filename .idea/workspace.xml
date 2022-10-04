@@ -2,10 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45375e70-f8e4-4d5a-ad71-3b6af8e20b89" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Dart/collections1.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dart/collections2.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dart/exception1.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dart/Asynchronous/A.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dart/Asynchronous/Streams.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dart/abstract_classes.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dart/callable_classes.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dart/classes.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dart/cloning_objects.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dart/cloning_objects1.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dart/collections1.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dart/collections2.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dart/enumerated.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dart/exception1.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dart/fxns.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dart/getters_setters.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dart/interfaces.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dart/mixin.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dart/super1.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dart/test.dart" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +55,17 @@
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
-  <component name="RunManager" selected="Dart Command Line App.collections2.dart">
+  <component name="RunManager" selected="Dart Command Line App.Streams.dart">
+    <configuration name="A.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/Dart/Asynchronous/A.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/Dart/Asynchronous" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Streams.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/Dart/Asynchronous/Streams.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/Dart/Asynchronous" />
+      <method v="2" />
+    </configuration>
     <configuration name="collections1.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/Dart/collections1.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$/Dart" />
@@ -52,28 +76,18 @@
       <option name="workingDirectory" value="$PROJECT_DIR$/Dart" />
       <method v="2" />
     </configuration>
-    <configuration name="exception1.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/Dart/exception1.dart" />
-      <option name="workingDirectory" value="$PROJECT_DIR$/Dart" />
-      <method v="2" />
-    </configuration>
-    <configuration name="interfaces.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/Dart/interfaces.dart" />
-      <option name="workingDirectory" value="$PROJECT_DIR$/Dart" />
-      <method v="2" />
-    </configuration>
-    <configuration name="mixin.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/Dart/mixin.dart" />
+    <configuration name="transform_methods.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/Dart/transform_methods.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$/Dart" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Dart Command Line App.Streams.dart" />
+        <item itemvalue="Dart Command Line App.A.dart" />
+        <item itemvalue="Dart Command Line App.transform_methods.dart" />
         <item itemvalue="Dart Command Line App.collections2.dart" />
         <item itemvalue="Dart Command Line App.collections1.dart" />
-        <item itemvalue="Dart Command Line App.exception1.dart" />
-        <item itemvalue="Dart Command Line App.mixin.dart" />
-        <item itemvalue="Dart Command Line App.interfaces.dart" />
       </list>
     </recent_temporary>
   </component>
