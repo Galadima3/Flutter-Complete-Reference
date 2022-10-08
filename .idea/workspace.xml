@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45375e70-f8e4-4d5a-ad71-3b6af8e20b89" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Dart/Asynchronous/A.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dart/Asynchronous/Streams.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dart/abstract_classes.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dart/callable_classes.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dart/classes.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dart/cloning_objects.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dart/cloning_objects1.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dart/collections1.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dart/collections2.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dart/enumerated.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dart/exception1.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dart/fxns.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dart/getters_setters.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dart/interfaces.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dart/mixin.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dart/super1.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dart/test.dart" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
